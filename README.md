@@ -1,1 +1,1 @@
-javascript笔记
+javascript权威指南笔记
