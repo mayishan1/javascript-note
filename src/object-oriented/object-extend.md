@@ -241,7 +241,7 @@ function Child() {
     Parent.apply(this, arguments)
 }
 
-Child.prototype = new Parent(Child.prototype, 'constructor', {
+Child.prototype = Object.defineProperty(Child.prototype, 'constructor', {
     value: Child,
     enumerable: false
 });
