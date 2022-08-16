@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "gitbook build"
+  },
   "dependencies": {
     "anchors": "^0.1.2",
     "ebook-convert": "^2.0.1",
@@ -15,5 +18,8 @@
     "gitbook-plugin-theme-comscore": "0.0.3",
     "gitbook-theme-comscore": "0.0.3",
     "global": "^4.3.2"
+  },
+  "devDependencies": {
+    "gitbook": "3.2.3"
   }
 }
