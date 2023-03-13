@@ -52,8 +52,3 @@
     * [事件处理程序-事件流-事件对象](src/events/events-handle-flow-object.md)
     * [事件类型-HTML5事件-设备事件](src/events/events-types-html5-mobile.md)
     * [事件性能-模拟事件](src/events/events-performance-simulation.md)
-* [表单脚本](src/form/README.md)
-
-* [构建工具](src/tools/README.md)
-    * [babel](src/tools/babel.md)
-
